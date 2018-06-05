@@ -1,0 +1,21 @@
+.round {
+  margin: auto;
+  background-color: rgb(187, 147, 224);
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  color: white;
+  line-height: 180px;
+  text-align: center;
+}
+
+.round2 {
+  margin: auto;
+  background-color: blueviolet;
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  color: white;
+  line-height: 190px;
+  text-align: center;
+}
